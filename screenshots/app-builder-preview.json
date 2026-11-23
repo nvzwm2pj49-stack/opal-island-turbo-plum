@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Ancient Forest Atlas",
+      "hasCanvas": false,
+      "bodyTextLen": 955,
+      "bodyTextHash": "3c1a49cb225a668697e83c2ae048cc76d846490ea2e621f962cfffaabd97d56b",
+      "bodyTextPrefix": "Locale atlas Ancient Forest Place pin Elevation One chart at a t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Ancient Forest Atlas",
+      "hasCanvas": false,
+      "bodyTextLen": 123,
+      "bodyTextHash": "3c9437df84f52ac74d78903b94fca5b406b8403bf08619494a5d692eb48f59ff",
+      "bodyTextPrefix": "Locale atlas Ancient Forest Place pin Layers and codex 0 shown L",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
